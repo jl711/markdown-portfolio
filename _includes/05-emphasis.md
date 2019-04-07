@@ -1,1 +1,8 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+### Person Attributes
+**Kind**
+
+**Sweet**
+### Programming Languages
+__COBOL__
+
+*C++*
